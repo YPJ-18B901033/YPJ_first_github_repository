@@ -1,2 +1,5 @@
-This is a
-hello world!
+你好！
+\No newline at the end of file
+你好！
+创建的第一个分支“new master”.
+\No newline at the end of file.
